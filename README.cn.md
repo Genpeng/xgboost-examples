@@ -13,11 +13,12 @@ xxx
 
 ## 中级
 
-- [模型的保存与加载 - 方式1](xxx)（使用 `pickle` 保存与加载训练好的模型）
-- [模型的保存与加载 - 方式2](xxx)（使用 `joblib` 保存与加载训练好的模型）
-- [xx](xx)（xxx）
-- [xx](xx)（xxx）
-- [xx](xx)（xxx）
+- [模型的保存与加载 - 方式1](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/ii_intermediate/07_save_%26_reload_trained_model_by_using_pickle.ipynb)（使用 `pickle` 保存与加载训练好的模型）
+- [模型的保存与加载 - 方式2](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/ii_intermediate/08_save_%26_reload_trained_model_by_using_joblib.ipynb)（使用 `joblib` 保存与加载训练好的模型）
+- [特征重要性可视化](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/ii_intermediate/09_plot_feature_importances.ipynb)（两种方式画出特征重要性）
+- [特征选择](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/ii_intermediate/10_feature_selection.ipynb)（用特征重要性去做特征选择）
+- [Early Stopping](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/ii_intermediate/11_early_stopping.ipynb)（采用 Early Stopping 避免过拟合）
+- [画出学习曲线](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/ii_intermediate/12_plot_learning_curve.ipynb)（从学习曲线中判断模型的训练情况）
 
 ## 高级
 
