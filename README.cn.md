@@ -1,4 +1,4 @@
-# 通过例子学习 XGBoost 
+# 通过例子学习 XGBoost
 
 xxx
 
