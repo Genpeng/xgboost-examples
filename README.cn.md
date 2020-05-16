@@ -22,9 +22,9 @@ xxx
 
 ## 高级
 
-- [微调树的数目](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/13_tune_number_of_trees.ipynb)（使用网格搜索微调树的数目）
-- [微调树的大小](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/14_tune_size_of_tree.ipynb)（使用网格搜索微调树的大小）
-- [微调学习率](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/15_tune_shrinkage.ipynb)（使用网格搜索微调学习率）
-- [微调行采样](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/16_tune_row_subsampling.ipynb)（使用网格搜索微调行采样）
-- [微调树层级列采样](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/17_tune_column_subsampling_bytree.ipynb)（使用网格搜索微调树层级列采样）
-- [微调结点层级列采样](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/18_tune_column_subsampling_bylevel.ipynb)（使用网格搜索微调结点层级列采样）
+- [微调树的数目](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/13_tune_number_of_trees.ipynb)（微调 `n_estimators` 参数）
+- [微调树的大小](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/14_tune_size_of_tree.ipynb)（微调 `max_depth` 参数）
+- [微调学习率](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/15_tune_shrinkage.ipynb)（微调 `learning_rate` 参数）
+- [微调行采样](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/16_tune_row_subsampling.ipynb)（微调 `subsample` 参数）
+- [微调树层级列采样](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/17_tune_column_subsampling_bytree.ipynb)（微调 `colsample_bytree` 参数）
+- [微调结点层级列采样](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/18_tune_column_subsampling_bylevel.ipynb)（微调 `colsample_bylevel` 参数）
