@@ -22,9 +22,9 @@ XGBoost tutorial and examples for beginners
 
 ## Advanced
 
-- [Tune Number of Trees](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/13_tune_number_of_trees.ipynb)(Tune `n_estimators` parameter)
-- [Tune Size of Tree](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/14_tune_size_of_tree.ipynb)(Tune `max_depth` parameter)
-- [Tune Shrinkage](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/15_tune_shrinkage.ipynb)(Tune `learning_rate` parameter)
-- [Tune Row Subsampling](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/16_tune_row_subsampling.ipynb)(Tune `subsample` parameter)
-- [Tune Column Subsampling by Tree](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/17_tune_column_subsampling_bytree.ipynb)(Tune `colsample_bytree` parameter)
-- [Tune Column Subsampling by Level](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/18_tune_column_subsampling_bylevel.ipynb)(Tune `colsample_bylevel` parameter)
+- [Tune Number of Trees](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/13_tune_number_of_trees.ipynb) (Tune `n_estimators` parameter)
+- [Tune Size of Tree](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/14_tune_size_of_tree.ipynb) (Tune `max_depth` parameter)
+- [Tune Shrinkage](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/15_tune_shrinkage.ipynb) (Tune `learning_rate` parameter)
+- [Tune Row Subsampling](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/16_tune_row_subsampling.ipynb) (Tune `subsample` parameter)
+- [Tune Column Subsampling by Tree](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/17_tune_column_subsampling_bytree.ipynb) (Tune `colsample_bytree` parameter)
+- [Tune Column Subsampling by Level](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/iii_advanced/18_tune_column_subsampling_bylevel.ipynb) (Tune `colsample_bylevel` parameter)
