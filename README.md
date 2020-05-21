@@ -7,7 +7,7 @@ XGBoost tutorial and examples for beginners
 - [Regression Hello World](xx) (Use XGBoost to fit xx curve)
 - [Classification Hello World](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/i_basic/02_hello_world_breast_cancer_dataset.ipynb) (Use XGBoost to classify [Breast Cancer Dataset](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer))
 - [Fill Missing Values](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/i_basic/03_use_imputer_to_handle_missing_data.ipynb) (Use `Imputer` to fill missing data)
-- [K-fold Cross Validation](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/i_basic/04_k-fold_cv.ipynb)) (Use K-fold to validate your model)
+- [K-fold Cross Validation](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/i_basic/04_k-fold_cv.ipynb) (Use K-fold to validate your model)
 - [Stratified K-fold CV](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/i_basic/05_stratified_k-fold.ipynb) (Use Stratified K-fold to make your split balanced)
 - [Visualize Single Tree](https://github.com/Genpeng/xgboost-examples/blob/master/ipython/i_basic/06_plot_single_dt.ipynb) (Plot single decision tree)
 
